@@ -1,4 +1,4 @@
-Ce projet est un test pour mettre en ligne via github un site web (sans back-end) grace a l'url github.io
+Ce projet est un test pour mettre en ligne via github un site web (sans back-end) grâce a l'url github.io
 
 Créer un repositorie, ajouter le sur votre ordi pour pouvoir faire les commande dans un cli.
 
