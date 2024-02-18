@@ -20,7 +20,7 @@ Puis dans les scripts ajouter les lignes suivantes,
 
 Après cela, entrez dans le terminal :
 - npm run build
-Cela créera un dossier build dans votre app
+(Cela créera un dossier build dans votre app)
 
 Pour conclure ajouter les modification avec les commande suivantes:
 - git add .
