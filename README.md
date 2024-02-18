@@ -15,8 +15,8 @@ Dans les première accolades avant les dépendances ajouter cette ligne
 "homepage": "https://redes19.github.io/test-pages", Attention l'url comporte https://nom_utilisateur.github.io/nom_du_projet
 
 Puis dans les scripts ajouter les lignes suivantes,
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+-"predeploy": "npm run build",
+-"deploy": "gh-pages -d build"
 
 Après cela, entrez dans le terminal :
 npm run build
